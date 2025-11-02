@@ -1,0 +1,14 @@
+streamlit>=1.38
+librosa>=0.10.2
+soundfile>=0.12.1
+numpy>=1.26
+pandas>=2.2
+nltk>=3.9
+spacy>=3.7
+textblob>=0.18.0.post0
+scikit-learn>=1.5
+requests>=2.32
+Pillow>=10.4
+moviepy>=1.0.3
+imageio-ffmpeg>=0.5.1
+python-dotenv>=1.0.1
